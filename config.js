@@ -1,5 +1,5 @@
 module.exports = {
-    token: 'MTAzNDA5Mjk3NzU0NDUwMzQwNg.GZqqCD.eh7jsJ3P-VBxxSfz2loaXX8XYO4zTUp9qC3MuQ',
+    token: 'MTAzNDA5Mjk3NzU0NDUwMzQwNg.G5vTmy.xXTXL0CiEy5Y4-9veJdiKPkuslwDYQ8G0P0iss',
     mongoURL: '',
     prefix: '~',
     guildID: '1014750261136330834',
